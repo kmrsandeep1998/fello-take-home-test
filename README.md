@@ -18,6 +18,8 @@ An explainable, multi-tenant account-risk queue for Customer Success.
 - Walkthrough script: `docs/walkthrough.md`
 - Public deployment handoff: `docs/deploy.md`
 
+The complete handoff package is also grouped under `submission/` for easy review.
+
 ## Run
 
 Requires JDK 17+.

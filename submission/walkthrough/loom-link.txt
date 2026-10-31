@@ -1,0 +1,2 @@
+Add the Loom URL here after recording the walkthrough using `walkthrough.md`.
+
