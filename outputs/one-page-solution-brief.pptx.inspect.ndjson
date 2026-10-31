@@ -1,0 +1,26 @@
+{"kind":"deck","id":"pr/9b19bt","name":"Deck"}
+{"kind":"layout","layoutId":"4f5bbc23-09dd-4d38-8fbb-a8a7c3c1e7c3","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"ab0a140e-b2ab-4573-ac3c-48124fce0722","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/eqa8v9","slide":1,"title":"FELLO / SOLUTION BRIEF","textShapes":17}
+{"kind":"textbox","id":"sh/0z61032l","slide":1,"text":"FELLO / SOLUTION BRIEF","textPreview":"FELLO / SOLUTION BRIEF","textChars":22,"textLines":1,"bbox":[72,32,400,24]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":1,"text":"Make Monday a ranked conversation list","textPreview":"Make Monday a ranked conversation list","textChars":38,"textLines":1,"bbox":[72,67,1120,62]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":1,"text":"A narrow first release for explainable, multi-tenant account risk.","textPreview":"A narrow first release for explainable, multi-tenant account risk.","textChars":66,"textLines":1,"bbox":[74,135,900,30]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":1,"bbox":[72,190,350,310]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":1,"text":"THE ACTUAL PROBLEM","textPreview":"THE ACTUAL PROBLEM","textChars":18,"textLines":1,"bbox":[98,218,280,24]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":1,"text":"CSMs need a trustworthy\nway to decide who to call.","textPreview":"CSMs need a trustworthy | way to decide who to call.","textChars":50,"textLines":2,"bbox":[98,266,290,78]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":1,"text":"Success means earlier, higher-quality intervention before renewal risk becomes obvious.","textPreview":"Success means earlier, higher-quality intervention before renewal risk becomes obvious.","textChars":87,"textLines":1,"bbox":[98,388,280,68]}
+{"kind":"shape","id":"sh/p4r65wju","slide":1,"bbox":[448,190,360,310]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":1,"text":"BUILD FIRST","textPreview":"BUILD FIRST","textChars":11,"textLines":1,"bbox":[474,218,260,24]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":1,"text":"An explainable risk queue","textPreview":"An explainable risk queue","textChars":25,"textLines":1,"bbox":[474,258,300,58]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":1,"text":"• normalize five source systems\n• generate account-level features\n• fit logistic regression on the data\n• rank by risk and renewal proximity\n• show evidence, confidence, and action\n• schedule scoring without a human click","textPreview":"• normalize five source systems | • generate account-level features | • fit logistic regression on the data | • rank by risk and renewal ...","textChars":221,"textLines":6,"bbox":[474,326,300,140]}
+{"kind":"shape","id":"sh/ovahoza1","slide":1,"bbox":[834,190,374,310]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":1,"text":"IMPORTANT BOUNDARY","textPreview":"IMPORTANT BOUNDARY","textChars":18,"textLines":1,"bbox":[860,218,290,24]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":1,"text":"Do not auto-email on red","textPreview":"Do not auto-email on red","textChars":24,"textLines":1,"bbox":[860,258,300,30]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":1,"text":"A score is probabilistic and data may be stale or incomplete. The first automated output is a reviewable outreach task.","textPreview":"A score is probabilistic and data may be stale or incomplete. The first automated output is a reviewable outreach task.","textChars":119,"textLines":1,"bbox":[860,308,300,72]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":1,"text":"Business input still needed","textPreview":"Business input still needed","textChars":27,"textLines":1,"bbox":[860,402,280,22]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":1,"text":"risk-event label · consent rules · owners · success metric","textPreview":"risk-event label · consent rules · owners · success metric","textChars":58,"textLines":1,"bbox":[860,436,300,36]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":1,"bbox":[72,530,1136,108]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":1,"text":"NON-NEGOTIABLES PROVEN IN THE SLICE","textPreview":"NON-NEGOTIABLES PROVEN IN THE SLICE","textChars":35,"textLines":1,"bbox":[98,555,370,20]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":1,"text":"5,000 accounts · 200,000 shuffled/incomplete events · 3 tenants · fitted model · scheduled agent · source-event traceability","textPreview":"5,000 accounts · 200,000 shuffled/incomplete events · 3 tenants · fitted model · scheduled agent · source-event traceability","textChars":124,"textLines":1,"bbox":[98,588,1050,26]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":1,"text":"Production next: durable event storage, incremental features, model registry, queue/leader election, and real integrations.","textPreview":"Production next: durable event storage, incremental features, model registry, queue/leader election, and real integrations.","textChars":123,"textLines":1,"bbox":[98,616,1050,22]}
+{"kind":"notes","id":"nt/eqa8v9","slide":1,"text":""}

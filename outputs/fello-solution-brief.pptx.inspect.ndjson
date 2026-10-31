@@ -1,0 +1,88 @@
+{"kind":"deck","id":"pr/jlye74","name":"Deck"}
+{"kind":"layout","layoutId":"dc0f40f6-a426-47c8-b708-7de7d0f4e6f4","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"69c7dc6f-4124-4446-9d2f-852e4c03c83e","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/tjfga2","slide":1,"title":"FELLO / CUSTOMER SUCCESS","textShapes":5}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":1,"text":"FELLO / CUSTOMER SUCCESS","textPreview":"FELLO / CUSTOMER SUCCESS","textChars":24,"textLines":1,"bbox":[72,62,600,24]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":1,"text":"Monday Morning","textPreview":"Monday Morning","textChars":14,"textLines":1,"bbox":[72,160,1000,90]}
+{"kind":"textbox","id":"sh/ulwval87","slide":1,"text":"An explainable account-risk queue for CSMs.","textPreview":"An explainable account-risk queue for CSMs.","textChars":43,"textLines":1,"bbox":[76,270,900,42]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":1,"text":"Generated data · fitted model · unattended scoring · human-approved outreach","textPreview":"Generated data · fitted model · unattended scoring · human-approved outreach","textChars":76,"textLines":1,"bbox":[76,592,1050,28]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":1,"text":"Staff Engineer take-home","textPreview":"Staff Engineer take-home","textChars":24,"textLines":1,"bbox":[930,62,240,24]}
+{"kind":"notes","id":"nt/tjfga2","slide":1,"text":""}
+{"kind":"slide","id":"sl/5gz3zu","slide":2,"title":"FELLO / MONDAY MORNING    02","textShapes":20}
+{"kind":"textbox","id":"sh/8bat47y1","slide":2,"text":"FELLO / MONDAY MORNING    02","textPreview":"FELLO / MONDAY MORNING    02","textChars":28,"textLines":1,"bbox":[72,36,650,22]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":2,"text":"The job is earlier, better intervention","textPreview":"The job is earlier, better intervention","textChars":39,"textLines":1,"bbox":[72,74,1130,68]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":2,"text":"The product is a Monday queue, not another dashboard.","textPreview":"The product is a Monday queue, not another dashboard.","textChars":53,"textLines":1,"bbox":[72,650,1130,22]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":2,"text":"CSMs are drowning in signals across five systems.","textPreview":"CSMs are drowning in signals across five systems.","textChars":49,"textLines":1,"bbox":[72,172,480,42]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":2,"text":"The business outcome is not “more red accounts.” It is earlier, higher-quality conversations before renewal risk becomes obvious.","textPreview":"The business outcome is not “more red accounts.” It is earlier, higher-quality conversations before renewal risk becomes obvious.","textChars":129,"textLines":1,"bbox":[72,232,450,100]}
+{"kind":"shape","id":"sh/j2t83itg","slide":2,"bbox":[612,160,510,330]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":2,"text":"One morning workflow","textPreview":"One morning workflow","textChars":20,"textLines":1,"bbox":[648,188,340,24]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[650,236,35,24]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":2,"text":"Normalize","textPreview":"Normalize","textChars":9,"textLines":1,"bbox":[700,236,110,24]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":2,"text":"messy events","textPreview":"messy events","textChars":12,"textLines":1,"bbox":[820,236,230,24]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[650,294,35,24]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":2,"text":"Score","textPreview":"Score","textChars":5,"textLines":1,"bbox":[700,294,110,24]}
+{"kind":"textbox","id":"sh/9knih4by","slide":2,"text":"30-day risk","textPreview":"30-day risk","textChars":11,"textLines":1,"bbox":[820,294,230,24]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[650,352,35,24]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":2,"text":"Explain","textPreview":"Explain","textChars":7,"textLines":1,"bbox":[700,352,110,24]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":2,"text":"why now","textPreview":"why now","textChars":7,"textLines":1,"bbox":[820,352,230,24]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":2,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[650,410,35,24]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":2,"text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[700,410,110,24]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":2,"text":"review task","textPreview":"review task","textChars":11,"textLines":1,"bbox":[820,410,230,24]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":2,"text":"I disagree with auto-email on red.","textPreview":"I disagree with auto-email on red.","textChars":34,"textLines":1,"bbox":[72,410,500,32]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":2,"text":"A probabilistic score can be wrong, stale, or sensitive. The first automated action is a reviewable recommendation; sending comes after consent and suppression rules.","textPreview":"A probabilistic score can be wrong, stale, or sensitive. The first automated action is a reviewable recommendation; sending comes after c...","textChars":166,"textLines":1,"bbox":[72,450,520,86]}
+{"kind":"notes","id":"nt/5gz3zu","slide":2,"text":""}
+{"kind":"slide","id":"sl/sg6mow","slide":3,"title":"FELLO / MONDAY MORNING    03","textShapes":15}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":3,"text":"FELLO / MONDAY MORNING    03","textPreview":"FELLO / MONDAY MORNING    03","textChars":28,"textLines":1,"bbox":[72,36,650,22]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":3,"text":"A narrow vertical slice proves the decision loop","textPreview":"A narrow vertical slice proves the decision loop","textChars":48,"textLines":1,"bbox":[72,74,1130,68]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":3,"text":"Generated events become a ranked, evidence-backed queue.","textPreview":"Generated events become a ranked, evidence-backed queue.","textChars":56,"textLines":1,"bbox":[72,650,1130,22]}
+{"kind":"shape","id":"sh/sneloj2t","slide":3,"bbox":[72,190,245,270]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":3,"text":"Five sources","textPreview":"Five sources","textChars":12,"textLines":1,"bbox":[94,218,200,28]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":3,"text":"Salesforce\nGmail\nZendesk\nProduct\nStripe","textPreview":"Salesforce | Gmail | Zendesk | Product | Stripe","textChars":39,"textLines":5,"bbox":[94,270,200,130]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[322,294,35,30]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":3,"bbox":[357,190,245,270]}
+{"kind":"textbox","id":"sh/lwval87e","slide":3,"text":"Feature contract","textPreview":"Feature contract","textChars":16,"textLines":1,"bbox":[379,218,200,28]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":3,"text":"usage trend\nsupport severity\npayment failures\nrenewal proximity","textPreview":"usage trend | support severity | payment failures | renewal proximity","textChars":63,"textLines":4,"bbox":[379,270,200,130]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[607,294,35,30]}
+{"kind":"shape","id":"sh/zidonyd0","slide":3,"bbox":[642,190,245,270]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":3,"text":"Fitted model","textPreview":"Fitted model","textChars":12,"textLines":1,"bbox":[664,218,200,28]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":3,"text":"logistic regression\ntrained on generated data\nrisk probability","textPreview":"logistic regression | trained on generated data | risk probability","textChars":62,"textLines":3,"bbox":[664,270,200,130]}
+{"kind":"textbox","id":"sh/svu9knih","slide":3,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[892,294,35,30]}
+{"kind":"shape","id":"sh/za1gvy90","slide":3,"bbox":[927,190,245,270]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":3,"text":"CSM action","textPreview":"CSM action","textChars":10,"textLines":1,"bbox":[949,218,200,28]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":3,"text":"ranked queue\nsource evidence\nreviewable outreach","textPreview":"ranked queue | source evidence | reviewable outreach","textChars":48,"textLines":3,"bbox":[949,270,200,130]}
+{"kind":"textbox","id":"sh/sji5snel","slide":3,"text":"The score is a policy layer over a model probability: green <50 · yellow 50–79 · red ≥80.","textPreview":"The score is a policy layer over a model probability: green <50 · yellow 50–79 · red ≥80.","textChars":89,"textLines":1,"bbox":[72,535,1000,28]}
+{"kind":"notes","id":"nt/sg6mow","slide":3,"text":""}
+{"kind":"slide","id":"sl/4vkjwn","slide":4,"title":"FELLO / MONDAY MORNING    04","textShapes":18}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":4,"text":"FELLO / MONDAY MORNING    04","textPreview":"FELLO / MONDAY MORNING    04","textChars":28,"textLines":1,"bbox":[72,36,650,22]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":4,"text":"Trust is a product feature","textPreview":"Trust is a product feature","textChars":26,"textLines":1,"bbox":[72,74,1130,68]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":4,"text":"Every visible result can be traced to a run, a feature snapshot, and source events.","textPreview":"Every visible result can be traced to a run, a feature snapshot, and source events.","textChars":83,"textLines":1,"bbox":[72,650,1130,22]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":4,"bbox":[72,172,510,360]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":4,"text":"Why is Atlas 100 red?","textPreview":"Why is Atlas 100 red?","textChars":21,"textLines":1,"bbox":[100,200,420,30]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":4,"text":"Risk score","textPreview":"Risk score","textChars":10,"textLines":1,"bbox":[100,258,120,22]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":4,"text":"82 / 100","textPreview":"82 / 100","textChars":8,"textLines":1,"bbox":[100,282,190,42]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":4,"text":"Usage trend","textPreview":"Usage trend","textChars":11,"textLines":1,"bbox":[100,350,180,22]}
+{"kind":"textbox","id":"sh/0z61032l","slide":4,"text":"0.42×","textPreview":"0.42×","textChars":5,"textLines":1,"bbox":[330,350,150,22]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":4,"text":"Severe tickets","textPreview":"Severe tickets","textChars":14,"textLines":1,"bbox":[100,389,180,22]}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[330,389,150,22]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":4,"text":"Payment failures","textPreview":"Payment failures","textChars":16,"textLines":1,"bbox":[100,428,180,22]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[330,428,150,22]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":4,"text":"Renewal proximity","textPreview":"Renewal proximity","textChars":17,"textLines":1,"bbox":[100,467,180,22]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":4,"text":"47 days","textPreview":"47 days","textChars":7,"textLines":1,"bbox":[330,467,150,22]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":4,"bbox":[634,172,488,360]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":4,"text":"Computed, not guessed","textPreview":"Computed, not guessed","textChars":21,"textLines":1,"bbox":[662,200,380,30]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":4,"text":"risk-logreg-v1","textPreview":"risk-logreg-v1","textChars":14,"textLines":1,"bbox":[662,260,280,26]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":4,"text":"scheduled agent run\nfeature values + contributions\nZendesk / Stripe / Product event IDs\ndata coverage confidence\nrecommendation approval state","textPreview":"scheduled agent run | feature values + contributions | Zendesk / Stripe / Product event IDs | data coverage confidence | recommendation a...","textChars":142,"textLines":5,"bbox":[662,314,360,160]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":4,"text":"tenant_id is carried through every account, event, feature, and API query.","textPreview":"tenant_id is carried through every account, event, feature, and API query.","textChars":74,"textLines":1,"bbox":[72,578,1030,25]}
+{"kind":"notes","id":"nt/4vkjwn","slide":4,"text":""}
+{"kind":"slide","id":"sl/7xrg1q","slide":5,"title":"FELLO / MONDAY MORNING    05","textShapes":10}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":5,"text":"FELLO / MONDAY MORNING    05","textPreview":"FELLO / MONDAY MORNING    05","textChars":28,"textLines":1,"bbox":[72,36,650,22]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":5,"text":"Ship the smallest system we can own","textPreview":"Ship the smallest system we can own","textChars":35,"textLines":1,"bbox":[72,74,1130,68]}
+{"kind":"textbox","id":"sh/ulwval87","slide":5,"text":"The demo proves the core loop; production hardening is explicit.","textPreview":"The demo proves the core loop; production hardening is explicit.","textChars":64,"textLines":1,"bbox":[72,650,1130,22]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":5,"text":"Built now","textPreview":"Built now","textChars":9,"textLines":1,"bbox":[72,170,240,28]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":5,"text":"5,000 accounts\n200,000 shuffled events\n3 customer organizations\nJava HTTP service\nbackground scoring every 5 minutes\nmodel + evidence API + CSM UI","textPreview":"5,000 accounts | 200,000 shuffled events | 3 customer organizations | Java HTTP service | background scoring every 5 minutes | model + ev...","textChars":146,"textLines":6,"bbox":[72,220,360,250]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":5,"text":"Business decisions still needed","textPreview":"Business decisions still needed","textChars":31,"textLines":1,"bbox":[500,170,430,28]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":5,"text":"What is a risk event?\nWhich segments have different renewal motions?\nWho may approve outreach?\nWhat are consent and suppression rules?\nWhich outcome defines success?","textPreview":"What is a risk event? | Which segments have different renewal motions? | Who may approve outreach? | What are consent and suppression rul...","textChars":165,"textLines":5,"bbox":[500,220,440,250]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":5,"text":"At 10×","textPreview":"At 10×","textChars":6,"textLines":1,"bbox":[972,170,220,28]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":5,"text":"Move events to durable storage, materialize features incrementally, separate training from scoring, and add a durable queue + leader election.","textPreview":"Move events to durable storage, materialize features incrementally, separate training from scoring, and add a durable queue + leader elec...","textChars":142,"textLines":1,"bbox":[972,220,240,180]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":5,"text":"Recommendation: evaluate lead time, precision/recall, CSM time saved, and retained ARR before enabling sends.","textPreview":"Recommendation: evaluate lead time, precision/recall, CSM time saved, and retained ARR before enabling sends.","textChars":109,"textLines":1,"bbox":[72,590,1060,28]}
+{"kind":"notes","id":"nt/7xrg1q","slide":5,"text":""}
